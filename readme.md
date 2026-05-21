@@ -38,7 +38,7 @@ This project is suitable for:
 ### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/yudhiana/orchid-starter.git
+git clone git@github.com:orchid-craft/orchid-starter.git
 cd orchid-starter
 ```
 
